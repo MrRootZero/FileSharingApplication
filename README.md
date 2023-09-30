@@ -1,8 +1,6 @@
 # FileSharingApplication
 
-
-# BUKA Client
-The BUKA Client is a JavaFX-based client application for interacting with a server using the BUKA protocol. This client allows users to authenticate, list and download audio files, and log out while providing feedback through a graphical user interface.
+The BUKA Client-Server Model is a JavaFX-based client application for interacting with a server using the BUKA protocol. This client allows users to authenticate, list and download audio files, and log out while providing feedback through a graphical user interface.
 
 ## Features
 - **User Authentication**: Authenticate with the server using a username and password.
